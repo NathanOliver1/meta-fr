@@ -1,3 +1,5 @@
+Title: Can we get a new privileged to lock post?
+
 I would like to request that we add a new privilege that gives users the ability to lock a single Question, Answer or the entire post.  Sometimes you see something like a rollback war and it would be nice to be able to shut it down until the moderators can step in and decide what to do.
 
 The way I envision it working is if there is something going on(rollback war, massive voting from meta attention, comments getting out of hand) that a high enough rep user can step in and lock the post.  Once they do an auto moderator flag is raised to notify the moderators of the situation.  This will allow the community to shut something down and then let the moderators come in and assess what action to take with the post and partied involved.  
